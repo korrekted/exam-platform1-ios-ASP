@@ -39,6 +39,8 @@
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>FacebookAppID</key>
 	<string>852994772018950</string>
+	<key>FacebookClientToken</key>
+	<string>dbfb5df2778d6f9105f973b5cfe7d737</string>
 	<key>FacebookDisplayName</key>
 	<string>ASP CSP Exam</string>
 	<key>LSRequiresIPhoneOS</key>
